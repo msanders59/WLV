@@ -1,1 +1,12 @@
-{}
+{
+  "appName": "Well-Log-Viewer",
+  "updateMode": "manual",
+  "githubDownloadUrl": "https://github.com/msanders59/WLV/releases/download",
+  "modelDownloadUrl": "https://github.com/msanders59/WLV/releases/download/2026_data",
+  "githubUrl": "https://github.com/msanders59/WLV/releases/download/v3.0/WLV.exe",
+  "joomlaUrl": "https://welllogviewer.starseis.com/update-app",
+  "logUrl": "https://welllogviewer.starseis.com/WLV/DownloadUpdate.php",
+  "platforms": {
+    "windows": { "releaseTag": "v3.0-win", "latestVersion": "3.0.0.0", "installerFileName": "WLV-Installer-win-x64.exe" },
+  }
+}
