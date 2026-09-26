@@ -7,7 +7,7 @@
   "joomlaUrl": "https://welllogviewer.starseis.com/update-app",
   "logUrl": "https://welllogviewer.starseis.com/WlvUtility/DownloadUpdateWLV.php",
   "platforms": {
-    "windows": { "releaseTag": "v3.0-win", "latestVersion": "3.0.0.0", "installerFileName": "WLV-Installer-win-x64.exe" },
+    "windows": { "releaseTag": "v3.0-win", "latestVersion": "3.0.0.1", "installerFileName": "WLV-Installer-win-x64.exe" },
     "macos": { "releaseTag": "v3.0-mac", "latestVersion": "0.0.0.0", "installerFileName": "WLV-Installer-mac.dmg" },
     "linux": { "releaseTag": "v3.0-linux", "latestVersion": "0.0.0.0", "installerFileName": "WLV-x86_64.AppImage" }
   }
